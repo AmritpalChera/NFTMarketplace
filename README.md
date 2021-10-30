@@ -1,7 +1,7 @@
 # NFT Collectibles Masterclass project deployed on Ethereum networks 
 
 ### About
-Dapp University NFT Collectibles Masterclass project deployed to Ethereum networks  
+Amritpal Chera following NFT Collectibles Masterclass from Dapp University  deployed to Ethereum Kovan Network 
 
 ### Technology Stack and Tools
 
